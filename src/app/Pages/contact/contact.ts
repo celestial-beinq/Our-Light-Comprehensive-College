@@ -39,13 +39,13 @@ export class ContactPage {
       isOpen: true,
     },
     {
-      question: 'Does OUR LIGHT COMPREHENSIVE COLLEGE  offer both Day and Boarding options?',
+      question: 'Does Our Light Comprehensive College offer both Day and Boarding options?',
       answer:
         'Yes! We offer premium modern boarding facilities with 24/7 power, CCTV security, resident house parents, and healthcare personnel, as well as day schooling with air-conditioned bus shuttle services across Egan, Igando, Isheri, Alimosho, and environs.',
       isOpen: false,
     },
     {
-      question: 'What curriculum does OUR LIGHT COMPREHENSIVE COLLEGE  teach?',
+      question: 'What curriculum does Our Light Comprehensive College teach?',
       answer:
         'We run an integrated dual curriculum: the Nigerian National Curriculum (preparing candidates for BECE, WAEC/WASSCE, and NECO) and the British Cambridge International Curriculum (IGCSE & Checkpoint).',
       isOpen: false,

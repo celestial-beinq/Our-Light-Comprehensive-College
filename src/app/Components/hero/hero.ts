@@ -34,7 +34,7 @@ export class Hero implements OnInit, OnDestroy {
       badge: 'Admissions Open 2026/2027 Academic Session',
       titlePrefix: 'Empowering Young Minds,',
       titleHighlight: 'Building Tomorrows Leaders',
-      subtext: 'At OUR LIGHT COMPREHENSIVE COLLEGE, we provide an inspiring learning environment combining academic excellence, innovative STEM training, and moral discipline to prepare every child for global success.',
+      subtext: 'At Our Light Comprehensive College, we provide an inspiring learning environment combining academic excellence, innovative STEM training, and moral discipline to prepare every child for global success.',
       primaryBtnText: 'Apply for Admission',
       primaryBtnLink: '/apply',
       secondaryBtnText: 'Explore Academics',
