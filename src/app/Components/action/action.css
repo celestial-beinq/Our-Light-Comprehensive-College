@@ -4,7 +4,7 @@
 
 .action-section {
   position: relative;
-  background-color: #021E5C;
+  background-color: #7A0016;
   color: #fff;
   padding: clamp(5.5rem, 11vh, 8.5rem) 1.5rem clamp(3.5rem, 6vh, 5rem);
   overflow: hidden;
@@ -100,7 +100,7 @@
   display: inline-flex;
   align-items: stretch;
   background-color: #fff;
-  color: #021E5C;
+  color: #7A0016;
   text-decoration: none;
   border: 2px solid #000;
   border-radius: 0px;
@@ -122,7 +122,7 @@
   font-weight: 800;
   letter-spacing: 1.2px;
   text-transform: uppercase;
-  color: #021E5C;
+  color: #7A0016;
   padding: 0.85rem 1.45rem;
   display: flex;
   align-items: center;
@@ -181,8 +181,8 @@
 }
 
 .footer-underline-link:hover {
-  color: #021E5C;
-  text-decoration-color: #021E5C;
+  color: #7A0016;
+  text-decoration-color: #7A0016;
 }
 
 /* -----------------------------------------

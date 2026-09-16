@@ -1,5 +1,5 @@
 /* =========================================
-   CONTACT PAGE STYLES - KOLUSAN MEMORIAL HIGH SCHOOL 
+   CONTACT PAGE STYLES - OUR LIGHT COMPREHENSIVE COLLEGE 
    ========================================= */
 
 .contact-page-main {
@@ -87,8 +87,8 @@
   width: 8px;
   height: 8px;
   border-radius: 0%;
-  background: #021E5C;
-  box-shadow: 0 0 10px #021E5C;
+  background: #7A0016;
+  box-shadow: 0 0 10px #7A0016;
   animation: contactBadgePulse 2s infinite ease-in-out;
 }
 
@@ -166,7 +166,7 @@
 }
 
 .portal-sticker-badge .badge-pill {
-  background-color: #021E5C;
+  background-color: #7A0016;
   color: #ffffff;
   font-weight: 800;
   font-size: clamp(0.78rem, 1.4vw, 0.88rem);
@@ -238,7 +238,7 @@
 }
 
 .contact-breadcrumbs-nav a {
-  color: #021E5C;
+  color: #7A0016;
   text-decoration: none;
   display: inline-flex;
   align-items: center;
@@ -414,7 +414,7 @@
 }
 
 .asterisk {
-  color: #021E5C;
+  color: #7A0016;
   font-weight: 800;
   margin-left: 2px;
 }
@@ -455,7 +455,7 @@
 
 .btn-secure-submit {
   width: 100%;
-  background-color: #021E5C;
+  background-color: #7A0016;
   color: #ffffff;
   font-weight: 800;
   font-size: 1rem;
@@ -473,7 +473,7 @@
 }
 
 .btn-secure-submit:hover:not(:disabled) {
-  background-color: #021E5C;
+  background-color: #7A0016;
   transform: translateY(-2px);
   box-shadow: 0 9px 25px rgba(235, 79, 39, 0.4);
 }
@@ -565,7 +565,7 @@
   font-size: 0.76rem;
   font-weight: 800;
   letter-spacing: 0.08em;
-  color: #021E5C;
+  color: #7A0016;
   text-transform: uppercase;
   margin-bottom: 0.6rem;
 }
@@ -618,7 +618,7 @@
 }
 
 .map-feature-item i {
-  color: #021E5C;
+  color: #7A0016;
   font-size: 1.15rem;
 }
 
@@ -641,7 +641,7 @@
   font-size: 0.76rem;
   font-weight: 800;
   letter-spacing: 0.1em;
-  color: #021E5C;
+  color: #7A0016;
   text-transform: uppercase;
   margin-bottom: 0.5rem;
 }
@@ -680,7 +680,7 @@
 }
 
 .faq-card.open {
-  border-color: #021E5C;
+  border-color: #7A0016;
   box-shadow: 0 6px 20px rgba(255, 102, 0, 0.08);
 }
 
@@ -705,7 +705,7 @@
 }
 
 .faq-card.open .q-text {
-  color: #021E5C;
+  color: #7A0016;
 }
 
 .faq-question-btn i {
@@ -715,7 +715,7 @@
 }
 
 .faq-card.open .faq-question-btn i {
-  color: #021E5C;
+  color: #7A0016;
 }
 
 .faq-answer-panel {

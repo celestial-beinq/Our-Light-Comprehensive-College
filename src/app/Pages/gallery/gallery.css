@@ -1,5 +1,5 @@
 /* =========================================
-   GALLERY PAGE STYLES - KOLUSAN MEMORIAL HIGH SCHOOL 
+   GALLERY PAGE STYLES - OUR LIGHT COMPREHENSIVE COLLEGE 
    ========================================= */
 
 .gallery-page-main {
@@ -87,8 +87,8 @@
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #021E5C;
-  box-shadow: 0 0 10px #021E5C;
+  background: #7A0016;
+  box-shadow: 0 0 10px #7A0016;
   animation: badgeDotPulse 2s infinite ease-in-out;
 }
 
@@ -166,7 +166,7 @@
 }
 
 .portal-sticker-badge .badge-pill {
-  background-color: #021E5C;
+  background-color: #7A0016;
   color: #ffffff;
   font-weight: 800;
   font-size: clamp(0.78rem, 1.4vw, 0.88rem);
@@ -238,7 +238,7 @@
 }
 
 .gallery-breadcrumbs-nav a {
-  color: #021E5C;
+  color: #7A0016;
   text-decoration: none;
   display: inline-flex;
   align-items: center;
@@ -289,14 +289,14 @@
 }
 
 .filter-pill-btn:hover {
-  border-color: #021E5C;
-  color: #021E5C;
+  border-color: #7A0016;
+  color: #7A0016;
 }
 
 .filter-pill-btn.active {
-  background: #021E5C;
+  background: #7A0016;
   color: #ffffff;
-  border-color: #021E5C;
+  border-color: #7A0016;
   box-shadow: 0 4px 14px rgba(255, 102, 0, 0.3);
 }
 
@@ -308,7 +308,7 @@
 }
 
 .gallery-meta-count strong {
-  color: #021E5C;
+  color: #7A0016;
 }
 
 /* -----------------------------------------
@@ -335,7 +335,7 @@
 .photo-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 15px 35px rgba(15, 23, 42, 0.12);
-  border-color: #021E5C;
+  border-color: #7A0016;
 }
 
 .photo-img-wrap {
@@ -406,7 +406,7 @@
 .photo-cat {
   font-size: 0.75rem;
   font-weight: 800;
-  color: #021E5C;
+  color: #7A0016;
   letter-spacing: 0.05em;
   margin-bottom: 0.3rem;
 }
@@ -441,7 +441,7 @@
 .footer-tag {
   font-size: 0.72rem;
   font-weight: 700;
-  color: #021E5C;
+  color: #7A0016;
   background: #eff6ff;
   padding: 0.2rem 0.55rem;
   border-radius: 4px;
@@ -518,7 +518,7 @@
 }
 
 .lightbox-close:hover {
-  background: #021E5C;
+  background: #7A0016;
   transform: scale(1.08);
 }
 
@@ -542,7 +542,7 @@
 .lightbox-badge {
   font-size: 0.78rem;
   font-weight: 800;
-  color: #021E5C;
+  color: #7A0016;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   margin-bottom: 0.4rem;
@@ -571,7 +571,7 @@
 }
 
 .cta-inner {
-  background: linear-gradient(135deg, #021E5C 0%, #021E5C 100%);
+  background: linear-gradient(135deg, #7A0016 0%, #7A0016 100%);
   border-radius: 20px;
   padding: clamp(2.5rem, 5vw, 3.5rem);
   color: #ffffff;
@@ -605,7 +605,7 @@
 
 .btn-cta-primary {
   background: #ffffff;
-  color: #021E5C;
+  color: #7A0016;
   font-weight: 800;
   padding: 0.85rem 1.75rem;
   border-radius: 8px;
@@ -620,7 +620,7 @@
 .btn-cta-primary:hover {
   background: #f8fafc;
   transform: translateY(-2px);
-  color: #021E5C;
+  color: #7A0016;
 }
 
 .btn-cta-secondary {

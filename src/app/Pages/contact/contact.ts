@@ -39,13 +39,13 @@ export class ContactPage {
       isOpen: true,
     },
     {
-      question: 'Does KOLUSAN MEMORIAL HIGH SCHOOL  offer both Day and Boarding options?',
+      question: 'Does OUR LIGHT COMPREHENSIVE COLLEGE  offer both Day and Boarding options?',
       answer:
         'Yes! We offer premium modern boarding facilities with 24/7 power, CCTV security, resident house parents, and healthcare personnel, as well as day schooling with air-conditioned bus shuttle services across Egan, Igando, Isheri, Alimosho, and environs.',
       isOpen: false,
     },
     {
-      question: 'What curriculum does KOLUSAN MEMORIAL HIGH SCHOOL  teach?',
+      question: 'What curriculum does OUR LIGHT COMPREHENSIVE COLLEGE  teach?',
       answer:
         'We run an integrated dual curriculum: the Nigerian National Curriculum (preparing candidates for BECE, WAEC/WASSCE, and NECO) and the British Cambridge International Curriculum (IGCSE & Checkpoint).',
       isOpen: false,
@@ -59,7 +59,7 @@ export class ContactPage {
     {
       question: 'Can parents schedule a weekday campus tour?',
       answer:
-        'Absolutely. Guided campus tours are conducted Mondays through Fridays between 9:00 AM and 2:00 PM. Please book via this contact form or call 08068850947, 08023753362.',
+        'Absolutely. Guided campus tours are conducted Mondays through Fridays between 9:00 AM and 2:00 PM. Please book via this contact form or call 08027779122.',
       isOpen: false,
     },
   ];

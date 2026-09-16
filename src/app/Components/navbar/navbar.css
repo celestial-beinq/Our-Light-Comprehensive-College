@@ -1,5 +1,5 @@
 /* =========================================
-   KOLUSAN MEMORIAL HIGH SCHOOL  - SIGNATURE APP NAVBAR
+   OUR LIGHT COMPREHENSIVE COLLEGE  - SIGNATURE APP NAVBAR
    ========================================= */
 
 :host {
@@ -86,7 +86,7 @@
   font-size: 1.25rem;
   font-weight: 700;
   letter-spacing: -.5px;
-  color: #021E5C;
+  color: #7A0016;
   white-space: nowrap;
   flex-shrink: 0;
   text-decoration: none;
@@ -106,13 +106,13 @@
   gap: 2rem;
   align-items: center;
   margin: 0 auto;
-  color: #021E5C;
+  color: #7A0016;
   padding: 0;
 }
 
 .nav-links a:not(.btn-get-started) {
   text-decoration: none;
-  color: #021E5C;
+  color: #7A0016;
   font-weight: 600;
   font-size: .8rem;
   letter-spacing: 1px;
@@ -125,12 +125,12 @@
 }
 
 .nav-links a:not(.btn-get-started):hover {
-  color: #021E5C;
+  color: #7A0016;
   opacity: 0.9;
 }
 
 .nav-links a.active {
-  color: #021E5C;
+  color: #7A0016;
   opacity: 1;
   font-weight: 700;
 }
@@ -189,7 +189,7 @@
   display: block;
   width: 20px;
   height: 2px;
-  background: #021E5C;
+  background: #7A0016;
   border-radius: 2px;
   transition: all .35s cubic-bezier(.4, 0, .2, 1);
   transform-origin: center;
@@ -259,7 +259,7 @@
 .drawer-brand {
   font-size: 1.15rem;
   font-weight: 750;
-  color: #021E5C;
+  color: #7A0016;
   letter-spacing: -0.3px;
   display: flex;
   align-items: center;
@@ -307,7 +307,7 @@
   display: flex;
   align-items: center;
   background: #f6f6f6;
-  color: #021E5C;
+  color: #7A0016;
   gap: 0.85rem;
   padding: 0.9rem 1rem;
   border-radius: 0px;
@@ -320,12 +320,12 @@
 
 .drawer-links li a i {
   font-size: 1.15rem;
-  color: #021E5C;
+  color: #7A0016;
 }
 
 .drawer-links li a:hover {
   background: #f6f6f6;
-  color: #021E5C;
+  color: #7A0016;
 }
 
 .drawer-footer {
@@ -336,7 +336,7 @@
 .drawer-cta {
   display: block;
   text-align: center;
-  background: #021E5C;
+  background: #7A0016;
   color: #ffffff;
   padding: 0.9rem 1rem;
   border-radius: 0px;
@@ -350,7 +350,7 @@
 }
 
 .drawer-cta:hover {
-  background: #032a82;
+  background: #5c0011;
   /* box-shadow: 0 6px 18px rgba(255, 102, 0, 0.4); */
   transform: translateY(-1px);
 }

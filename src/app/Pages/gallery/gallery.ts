@@ -73,7 +73,7 @@ export class GalleryPage {
       categoryLabel: 'SPORTS ARENA',
       image: 'images/campus-sports.jpg',
       description:
-        'Intense competition and sportsmanship on our FIFA-dimension pitch during the annual KOLUSAN MEMORIAL HIGH SCHOOL  Games.',
+        'Intense competition and sportsmanship on our FIFA-dimension pitch during the annual OUR LIGHT COMPREHENSIVE COLLEGE  Games.',
       badge: 'Athletics Day',
     },
     {
@@ -123,7 +123,7 @@ export class GalleryPage {
       categoryLabel: 'COURT SPORTS',
       image: 'images/IMG_4342.JPG',
       description:
-        'KOLUSAN MEMORIAL HIGH SCHOOL  basketball squad displaying tactical precision and agility on our outdoor courts.',
+        'OUR LIGHT COMPREHENSIVE COLLEGE  basketball squad displaying tactical precision and agility on our outdoor courts.',
       badge: 'Championship Match',
     },
     {

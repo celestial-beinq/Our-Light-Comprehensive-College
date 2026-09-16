@@ -1,5 +1,5 @@
 /* =========================================
-   ABOUT PAGE STYLES - KOLUSAN MEMORIAL HIGH SCHOOL 
+   ABOUT PAGE STYLES - OUR LIGHT COMPREHENSIVE COLLEGE 
    ========================================= */
 
 .about-page-main {
@@ -87,8 +87,8 @@
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #021E5C;
-  box-shadow: 0 0 10px #021E5C;
+  background: #7A0016;
+  box-shadow: 0 0 10px #7A0016;
   animation: badgeDotPulse 2s infinite ease-in-out;
 }
 
@@ -168,7 +168,7 @@
 }
 
 .about-breadcrumbs-nav a {
-  color: #021E5C;
+  color: #7A0016;
   text-decoration: none;
   display: inline-flex;
   align-items: center;
@@ -213,7 +213,7 @@
 }
 
 .portal-sticker-badge .badge-pill {
-  background-color: #021E5C;
+  background-color: #7A0016;
   color: #ffffff;
   font-weight: 800;
   font-size: clamp(0.78rem, 1.4vw, 0.88rem);
@@ -299,7 +299,7 @@
   height: 50px;
   border-radius: 2px;
   background: #eff6ff;
-  color: #021E5C;
+  color: #7A0016;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -364,7 +364,7 @@
   position: absolute;
   bottom: 1.5rem;
   right: 1.5rem;
-  background: #021E5C;
+  background: #7A0016;
   color: #ffffff;
   padding: 0.9rem 1.2rem;
   border-radius: 12px;
@@ -391,7 +391,7 @@
 .section-eyebrow {
   font-size: 0.8rem;
   font-weight: 800;
-  color: #021E5C;
+  color: #7A0016;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   display: block;
@@ -412,7 +412,7 @@
   font-weight: 600;
   color: #1e293b;
   line-height: 1.6;
-  border-left: 3px solid #021E5C;
+  border-left: 3px solid #7A0016;
   padding-left: 1.2rem;
   margin-bottom: 1.25rem;
   font-style: italic;
@@ -491,7 +491,7 @@
   align-self: flex-start;
   font-size: 0.72rem;
   font-weight: 800;
-  color: #021E5C;
+  color: #7A0016;
   background: #eff6ff;
   padding: 0.25rem 0.65rem;
   border-radius: 9999px;
@@ -502,7 +502,7 @@
 .pillar-icon {
   width: 48px;
   height: 48px;
-  background: #021E5C;
+  background: #7A0016;
   color: #ffffff;
   border-radius: 12px;
   display: flex;
@@ -547,7 +547,7 @@
 }
 
 .pillar-bullets li i {
-  color: #021E5C;
+  color: #7A0016;
   font-size: 0.95rem;
 }
 
@@ -589,7 +589,7 @@
 .value-icon {
   width: 44px;
   height: 44px;
-  background-color: #021E5C;
+  background-color: #7A0016;
   border-radius: 0px;
   display: flex;
   align-items: center;
@@ -684,9 +684,9 @@
 .pulse-dot {
   width: 7px;
   height: 7px;
-  background: #021E5C;
+  background: #7A0016;
   border-radius: 50%;
-  box-shadow: 0 0 8px #021E5C;
+  box-shadow: 0 0 8px #7A0016;
   animation: pulseDot 1.8s infinite;
 }
 
@@ -738,7 +738,7 @@
 }
 
 .accred-highlight-item i {
-  color: #021E5C;
+  color: #7A0016;
   font-size: 0.95rem;
 }
 
@@ -754,7 +754,7 @@
   align-items: center;
   gap: 0.55rem;
   background-color: #fff;
-  color: #021E5C;
+  color: #7A0016;
   font-weight: 750;
   font-size: 0.84rem;
   letter-spacing: 0.5px;
@@ -767,7 +767,7 @@
 }
 
 .btn-accred-primary:hover {
-  background-color: #032a82;
+  background-color: #5c0011;
   transform: translateY(-2px);
   /* box-shadow: 0 6px 20px rgba(255, 102, 0, 0.55); */
   color: #ffffff;
